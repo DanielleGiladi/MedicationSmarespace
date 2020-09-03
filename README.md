@@ -10,4 +10,4 @@ Three types of players can perform actions on the system.
 
 Use the RESTful API to perform operations on the system.
 
-Use JUnit to the tests.
+Use JUnit for the tests.
