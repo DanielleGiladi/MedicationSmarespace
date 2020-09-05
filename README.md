@@ -1,6 +1,6 @@
 # MedicationSmarespace
 
-Our Smart Space is designed to organize medications by category and type order.
+The Smart Space is designed to organize medications by category and type order.
 
 In this way, the smart space will resemble the arrangement of medications in drawers like in the pharmacy.
 The X-axis represents different categories of medications,
